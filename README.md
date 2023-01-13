@@ -3,18 +3,18 @@
 Quantium-Data-Analytics-Virtual-Experience-Program
 My attempts made for the Quantium Data Analytics Virtual Experience Program on Forage.
 
-Problem Statement
+# Problem Statement
 
 Quantium has had a data partnership with a large supermarket brand for the last few years who provide transactional and customer data. Supermarket will regularly change their store layouts, product selections, prices and promotions. This is to satisfy their customer’s changing needs and preferences, keep up with the increasing competition in the market or to capitalise on new opportunities. The Quantium analytics team are engaged in these processes to evaluate and analyse the performance of change and recommend whether it has been successful.
 
-Objectives
+# Objectives
 
 Look for inconsistencies, missing data across the data set, outliers, correctly identified category items, numeric data across all tables.
 Explore the data, create charts and graphs as well as noting any interesting trends and/or insights found.
 Define the recommendation from the insights, determine which segments we should be targeting.
 Match trial stores (str num# 77, 86 & 88) to control stores that are similar to the trial store prior to the trial period of Feb 2019 in terms of monthly overall sales revenue, monthly number of customers, and monthly number of transactions per customer.
 
-Results
+# Results
 
 1.Most of the brands from the datasets are from The Smith's Snackfood Company Pty Ltd.
 
