@@ -17,8 +17,13 @@ Match trial stores (str num# 77, 86 & 88) to control stores that are similar to 
 Results
 
 1.Most of the brands from the datasets are from The Smith's Snackfood Company Pty Ltd.
+
 2.We could notice that the chips with sour cream or sea salt, as well as the corn chip are quite popular among the customers.
+
 3.Mainstream midage and young singles and couples are more willing to pay more per packet of chips compared to their budget and premium counterparts.
+
 4.Sales are coming mainly from Budget - older families, Mainstream - young singles/couples, and Mainstream – retirees.
+
 5.There are more Mainstream - young singles/couples and Mainstream - retirees who buy chips. This contributes to there being more sales to these customer segments but this is not a major driver for the Budget - Older families segment. Higher sales may also be driven by more units of chips being bought per customer.
+
 6.The trial stores 77 and 88 during the trial period (February 2019 - April 2019) show a significant difference in at least two of the three trial months but this is not the case for trial store 86. We can check with the client if the implementation of the trial was different in trial store 86 but overall, the trial shows a significant increase in sales.
